@@ -29,6 +29,6 @@ public class GoatDoors {
             }
         }
         
-        System.out.println("Sucess rate: " + successRate + " / " + numGames);
+        System.out.println("Success rate: " + successRate + " / " + numGames);
     }
 }
